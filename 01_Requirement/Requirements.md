@@ -23,4 +23,8 @@ Cart Module
 REQ-001 User can add product to cart and can add in multiple quantity (nike bagpack x3).
 REQ-002 User can delete product from the cart.
 REQ-003 User should have a contiune shopping and proceed to payment feature in cart.
+
+Checkout Module 
+REQ-001 User should enter checkout details to proceed the purcharse .
 REQ-004 When user proceed to payments the payment message should be diplayed product is successfully buyed.
+
