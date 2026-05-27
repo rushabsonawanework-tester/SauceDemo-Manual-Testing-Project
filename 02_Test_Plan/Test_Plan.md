@@ -17,6 +17,14 @@ Regression Testing
 UI Testing 
 Exploratory Testing 
 
+Entry Criteria:
+Application available
+Requirements understood
+
+Exit Criteria:
+Critical defects closed
+Test cases executed
+
 DELIVERABLES:
 Test Scenarios
 Test Cases
